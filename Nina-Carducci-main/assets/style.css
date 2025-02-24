@@ -433,3 +433,6 @@ footer .footer_right {
     text-align: center;
   }
 }
+.visually-hidden {
+  color: #000;
+}
